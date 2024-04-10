@@ -1,6 +1,6 @@
 Validation study for water estimates
 
-# publication
+# Publication
 https://pubmed.ncbi.nlm.nih.gov/37782192/
 
 # R
